@@ -8,7 +8,7 @@
   <script>
     // JavaScript code
     console.log("Hello, !");
-    alert("Hello, World!");
+    alert("Hello,");
   </script>
 </body>
 </html>
