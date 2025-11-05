@@ -7,7 +7,7 @@
   <h1>JavaScript Hello World</h1>
   <script>
     // JavaScript code
-    console.log("Hello, World!");
+    console.log("Hello, !");
     alert("Hello, World!");
   </script>
 </body>
